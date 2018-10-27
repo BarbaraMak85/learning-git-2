@@ -4,4 +4,10 @@
 
 p {
     font-size: 25px;
+    color: blue;
+}
+
+body {
+    background-color: gray;
+    width: 50%
 }
