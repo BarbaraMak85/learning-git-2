@@ -1,1 +1,1 @@
-# learning-git-2
+# https://barbaramak85.github.io/learning-git-2/.
