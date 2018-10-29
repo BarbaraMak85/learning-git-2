@@ -1,4 +1,2 @@
-node_modules/.bin/nu-html-checker start --server --files ".*html"
-node_modules/.bin/autoprefixer-cli --browsers BROWSERS
-
-node
+node_modules/.bin/autoprefixer-cli style.css
+node_modules/.bin/nu-html-checker index.html
